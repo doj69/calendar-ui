@@ -1,0 +1,16 @@
+{
+  "avatar": "Doni Junior",
+  "calendar": "Calendar",
+  "newEvent": "New Event",
+  "name": "Name",
+  "description": "Description",
+  "startDate": "Start Date",
+  "startTime": "Start Time",
+  "endDate": "End Date",
+  "endTime": "End Time",
+  "remarkColor": "Remark Color",
+  "updateEvent": "Update Event",
+  "saveMessage": "Appointment has been saved succesfully",
+  "deleteMessage": "Appointment has been deleted succesfully",
+  "updateMessage": "Appointment has been updated succesfully"
+}
